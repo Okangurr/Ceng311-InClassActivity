@@ -1,0 +1,16 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    font-size: 18px;
+}
+
+.output {
+    font-weight: bold;
+}

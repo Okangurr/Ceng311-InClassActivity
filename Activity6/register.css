@@ -1,0 +1,13 @@
+﻿label, input, select, textarea {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+label {
+    width: 100px;
+}
+
+.inline {
+    display: inline;
+    margin-right: 5px;
+}
