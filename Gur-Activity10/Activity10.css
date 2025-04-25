@@ -1,0 +1,30 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+form {
+    display: table;
+}
+
+label {
+    display: table-row;
+}
+
+    label span {
+        display: table-cell;
+        padding: 5px 10px;
+        vertical-align: middle;
+        font-weight: bold;
+    }
+
+    label input {
+        display: table-cell;
+        padding: 5px;
+        width: 250px;
+    }
+
+button {
+    margin-top: 10px;
+    padding: 6px 12px;
+}
